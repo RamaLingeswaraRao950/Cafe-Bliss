@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.center {
+  text-align: center;
+ }
+
+.bodyStyle {
+	width: 966px;
+	margin: 0 auto;
+	overflow: auto;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'sans-serif';
+	font-size: 17px;
+}
+
+.mainHeader {
+  	font-family: "Comic Sans MS", cursive;
+	font-size: 99px;
+	line-height: 66px;
+	color: #000;
+	text-align: center;
+}
+.cursiveText {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 17px;
+	line-height: 21px;
+	color: #000;
+	text-align: center;
+}
