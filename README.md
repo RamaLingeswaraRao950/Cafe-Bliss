@@ -16,4 +16,4 @@ To run the Café Bliss project locally, follow these steps:
 2. Navigate into the project directory :
    cd Cafe-Bliss
 
-3. **Open the `index.html` file** in your preferred web browser:
+3. Open the index.html file in your preferred web browser:
